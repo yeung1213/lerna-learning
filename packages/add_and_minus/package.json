@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/yeung1213/lerna-learning.git"
@@ -26,5 +29,6 @@
   "dependencies": {
     "@simonooo/add": "^1.0.2",
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "981cfdcc186353b4c2124f27cd74f20647340f47"
 }
