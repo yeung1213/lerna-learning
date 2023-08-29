@@ -1,0 +1,20 @@
+0 silly argv {
+0 silly argv   _: [ 'create' ],
+0 silly argv   lernaVersion: '7.1.5',
+0 silly argv   '$0': '/Users/yeung/.npm/_npx/d5cad42883f80c04/node_modules/.bin/lerna',
+0 silly argv   name: 'helloworld'
+0 silly argv }
+1 notice cli v7.1.5
+2 verbose packageConfigs Resolving packages based on package.json "workspaces" configuration.
+3 verbose rootPath /Users/yeung/Desktop/Testing/lerna-learning
+4 warn ENOREMOTE No git remote found, skipping repository property
+5 error Error: canceled
+5 error     at Interface.<anonymous> (/Users/yeung/.npm/_npx/d5cad42883f80c04/node_modules/read/lib/read.js:79:15)
+5 error     at Interface.emit (node:events:513:28)
+5 error     at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1131:18)
+5 error     at ReadStream.onkeypress (node:internal/readline/interface:270:20)
+5 error     at ReadStream.emit (node:events:513:28)
+5 error     at emitKeys (node:internal/readline/utils:357:14)
+5 error     at emitKeys.next (<anonymous>)
+5 error     at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+5 error     at ReadStream.emit (node:events:513:28)
