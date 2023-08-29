@@ -1,6 +1,6 @@
 {
   "name": "@simonooo/helloworld",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "hello world",
   "author": "simonooo",
   "homepage": "",
@@ -21,6 +21,6 @@
   },
   "gitHead": "5f9ff76bde9e4605adff820383032971a27bf6be",
   "dependencies": {
-    "@simonooo/add_and_minus": "^1.0.0"
+    "@simonooo/add_and_minus": "^1.0.1"
   }
 }
