@@ -13,7 +13,11 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "node ./__tests__/helloworld.test.js"
-  }
+  },
+  "gitHead": "5f9ff76bde9e4605adff820383032971a27bf6be"
 }
