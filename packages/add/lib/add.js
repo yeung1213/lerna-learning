@@ -1,7 +1,8 @@
-'use strict';
+"use strict";
 
-module.exports = add;
+module.exports = addv2;
 
-function add(x, y) {
+function addv2(x, y) {
+  console.log(x + y);
   return x + y;
 }

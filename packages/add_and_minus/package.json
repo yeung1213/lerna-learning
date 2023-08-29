@@ -1,0 +1,30 @@
+{
+  "name": "@simonooo/add_and_minus",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "yeung1213 <yeung2423@gmail.com>",
+  "homepage": "https://github.com/yeung1213/lerna-learning#readme",
+  "license": "ISC",
+  "main": "lib/add_and_minus.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeung1213/lerna-learning.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/add_and_minus.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/yeung1213/lerna-learning/issues"
+  },
+  "dependencies": {
+    "@simonooo/add": "^1.0.1",
+    "lodash": "^4.17.21"
+  }
+}
