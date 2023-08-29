@@ -1,6 +1,6 @@
 {
   "name": "@simonooo/add_and_minus",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "> TODO: description",
   "author": "yeung1213 <yeung2423@gmail.com>",
   "homepage": "https://github.com/yeung1213/lerna-learning#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/yeung1213/lerna-learning/issues"
   },
   "dependencies": {
-    "@simonooo/add": "^2.0.0",
+    "@simonooo/add": "^2.0.1",
     "lodash": "^4.17.21"
   },
   "gitHead": "981cfdcc186353b4c2124f27cd74f20647340f47"
