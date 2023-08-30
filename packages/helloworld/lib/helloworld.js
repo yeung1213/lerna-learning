@@ -9,7 +9,7 @@ const addAndMinus = require("@simonooo/add_and_minus");
 
 function helloworld() {
   const result = addAndMinus(3, 5, 1);
-  console.log("addAndMinus:", result);
+  console.log("addAndMinus test:", result);
   return "Hello from helloworld";
 }
 
